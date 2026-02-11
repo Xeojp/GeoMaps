@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Navigation App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search_hint">Search for places...</string>
+    <string name="search_button">Search</string>
+    <string name="favorites">Favorites</string>
+    <string name="settings">Settings</string>
+    <string name="map_type_normal">Normal</string>
+    <string name="map_type_satellite">Satellite</string>
+    <string name="map_type_terrain">Terrain</string>
+    <string name="route_from">From:</string>
+    <string name="route_to">To:</string>
+    <string name="calculate_route">Calculate Route</string>
+    <string name="distance">Distance:</string>
+    <string name="duration">Duration:</string>
+</resources>
